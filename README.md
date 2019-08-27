@@ -1,5 +1,6 @@
 ## LawrenceのWebsite
-#这是一个测试网页，后期将继续改良，用以学习，ღ( ´･ᴗ･` )比心
+
+## 这是一个测试网页，后期将继续改良，用以学习，ღ( ´･ᴗ･` )比心
 
 You can use the [editor on GitHub](https://github.com/LawrenceJry/LawrenceJry.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
